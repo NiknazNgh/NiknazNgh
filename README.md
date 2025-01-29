@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source data science projects and innovative machine learning applications.
 
-📫 How to reach me: LinkedIn (linkedin.com/in/niknaznegahdarhaghighat) or via email at niknaz.example@gmail.com
+📫 How to reach me: LinkedIn (linkedin.com/in/niknaznegahdarhaghighat) or via email at niknaz.ngh@gmail.com
 
 😄 Pronouns: She/Her
 
