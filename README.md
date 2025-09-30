@@ -1,14 +1,12 @@
-👋 Hi, I’m @NiknazNgh
+👋 Hi, I’m Niknaz
 
-👀 I’m interested in data science, machine learning, and AI applications.
+💻 About Me
+I’m a Data Analyst and Business Process Analyst with hands-on experience in Python automation, data science.
 
-🌱 I’m currently learning advanced deep learning techniques and cloud computing for data analysis.
+🚀 Current Focus
+Applying data science methods to public sector  planning and operations
 
-💞️ I’m looking to collaborate on open-source data science projects and innovative machine learning applications.
-
-📫 How to reach me: LinkedIn (linkedin.com/in/niknaznegahdarhaghighat) or via email at niknaz.ngh@gmail.com
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I have a background in structural engineering, and I love solving real-world problems with data!
-
+🤝 Collaboration Interests
+Open-source projects in data engineering and automation
+Tools that improve public sector transparency and efficiency
+Practical applications of machine learning for real-world impact
