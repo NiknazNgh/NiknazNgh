@@ -215,7 +215,6 @@ with a particular focus on:
 ## 📫 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/niknazngh](https://www.linkedin.com/in/niknazngh/)
-* 📧 **Email:** Add your professional email here
 * 💻 **GitHub:** [github.com/NiknazNgh](https://github.com/NiknazNgh)
 
 ---
