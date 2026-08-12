@@ -106,7 +106,6 @@ A Python-based automation pipeline designed to reduce repetitive operational rep
 
 ## 📊 Forecasting & Power BI Analysis
 
-**Coming next**
 
 A business-intelligence project combining statistical forecasting, predictive analysis, and interactive Power BI dashboards to support data-driven decision-making.
 
@@ -173,14 +172,4 @@ Relevant areas:
 💻 [GitHub](https://github.com/NiknazNgh)
 📍 Dallas–Fort Worth, Texas
 
----
 
-### 🎯 Focus
-
-Building practical solutions at the intersection of:
-
-**AI Engineering · Data Analytics · Automation**
-
-with a focus on:
-
-**Microsoft Foundry · Azure AI · Generative AI · AI Agents · Python · SQL · Power BI**
