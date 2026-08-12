@@ -1,21 +1,9 @@
 # Hi, I'm Niknaz 👋
 
 ### AI & Data Automation | Microsoft Foundry | Azure AI | Generative AI | Python | SQL | Power BI
-<a href="https://www.linkedin.com/in/niknazngh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Niknaz-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat" />
-  <img src="https://img.shields.io/badge/AI%20Agents-5C2D91?style=flat" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-</p>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niknaz%20Negahdarhaghighat-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/niknazngh/)
+[![GitHub](https://img.shields.io/badge/GitHub-NiknazNgh-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/NiknazNgh)
 
 ## 👋 About Me
 
@@ -23,7 +11,7 @@ I'm an **AI, data, and automation professional** focused on building practical s
 
 My work combines **Microsoft Foundry, Azure AI, generative AI, RAG, AI agents, Python automation, SQL, Power BI, forecasting, and data analytics**.
 
-I particularly enjoy taking repetitive or data-heavy business processes and turning them into **automated, measurable, and scalable solutions**.
+I enjoy turning repetitive, data-heavy business processes into **automated, measurable, and scalable solutions**.
 
 ---
 
@@ -32,46 +20,25 @@ I particularly enjoy taking repetitive or data-heavy business processes and turn
 * 🤖 Building **AI agents with Microsoft Foundry and Azure AI**
 * 📚 Developing **Retrieval-Augmented Generation (RAG)** applications
 * 🐍 Automating reporting and data-processing workflows with **Python**
-* 📊 Creating analytics and forecasting solutions with **Power BI**
-* 🧠 Learning production patterns for **Generative AI and agentic AI systems**
-* ⚙️ Turning operational workflows into reusable automation pipelines
+* 📊 Building analytics and forecasting solutions with **Power BI**
+* ⚙️ Creating reusable data-validation and automation pipelines
+* 🧠 Improving AI applications through **testing, evaluation, and grounded retrieval**
 
 ---
 
-## 💼 Professional Focus
+## 🛠️ Skills
 
 ### AI & Generative AI
 
-* Microsoft Foundry
-* Azure AI
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* Structured Outputs
-* Vector Search
-* AI Evaluation
-* Document Intelligence
+`Microsoft Foundry` · `Azure AI` · `Generative AI` · `AI Agents` · `RAG` · `File Search` · `Vector Search` · `Prompt Engineering` · `AI Evaluation`
 
 ### Data & Analytics
 
-* Python
-* SQL
-* Power BI
-* Pandas
-* NumPy
-* Scikit-learn
-* Forecasting
-* Statistical Analysis
-* Data Visualization
+`Python` · `SQL` · `Power BI` · `Pandas` · `NumPy` · `Scikit-learn` · `Forecasting` · `Statistical Analysis` · `Data Visualization`
 
 ### Automation
 
-* Python Automation
-* Excel Automation
-* Data Validation
-* ETL / Data Transformation
-* Automated Reporting
-* Business Process Automation
+`Python Automation` · `Excel Automation` · `Data Validation` · `ETL` · `Data Transformation` · `Automated Reporting`
 
 ---
 
@@ -79,10 +46,10 @@ I particularly enjoy taking repetitive or data-heavy business processes and turn
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -97,13 +64,11 @@ I particularly enjoy taking repetitive or data-heavy business processes and turn
 
 # 🚀 Featured Projects
 
-## 🤖 Microsoft Foundry RAG Agent
+## 🤖 [Microsoft Foundry RAG Agent](https://github.com/NiknazNgh/azure-ai-agent-rag)
 
-**Repository:** [azure-ai-agent-rag](https://github.com/NiknazNgh/azure-ai-agent-rag)
+An **operations-intelligence RAG agent** that retrieves information from business documents and generates grounded responses for operational decision support.
 
-An **operations intelligence RAG agent** built with Microsoft Foundry that retrieves information from business documents and generates grounded responses for operational decision support.
-
-### Highlights
+### Key Features
 
 * Microsoft Foundry AI Agent
 * Retrieval-Augmented Generation (RAG)
@@ -121,19 +86,19 @@ An **operations intelligence RAG agent** built with Microsoft Foundry that retri
 
 ---
 
-## ⚙️ Python Report Automation
+## ⚙️ [Python Report Automation](https://github.com/NiknazNgh/python-report-automation)
 
-Automating repetitive operational reporting workflows using Python, structured validation, data transformation, and Excel report generation.
+A Python-based automation pipeline designed to reduce repetitive operational reporting work by consolidating data, validating quality, calculating KPIs, and generating structured Excel outputs.
 
-### Focus
+### Key Features
 
 * Multi-file data ingestion
 * Data cleaning and standardization
-* Validation rules
-* KPI calculation
-* Automated Excel report generation
-* Validation reporting
-* Reproducible reporting pipeline
+* Automated validation rules
+* KPI calculations
+* Excel report generation
+* Data-quality reporting
+* Reusable reporting workflow
 
 **Tech:** `Python` · `Pandas` · `Excel` · `Automation` · `Data Validation`
 
@@ -141,23 +106,24 @@ Automating repetitive operational reporting workflows using Python, structured v
 
 ## 📊 Forecasting & Power BI Analysis
 
-Forecasting and business-intelligence project combining statistical analysis, predictive modeling, and interactive dashboards.
+**Coming next**
 
-### Focus
+A business-intelligence project combining statistical forecasting, predictive analysis, and interactive Power BI dashboards to support data-driven decision-making.
+
+### Planned Features
 
 * Exploratory data analysis
 * Time-series forecasting
-* Model evaluation
+* Forecast accuracy evaluation
 * KPI development
-* Business intelligence
 * Interactive Power BI dashboards
-* Decision-support visualization
+* Business-focused visualizations
 
 **Tech:** `Python` · `SQL` · `Forecasting` · `Power BI` · `Data Visualization`
 
 ---
 
-## 🧠 How I Approach Projects
+## 🧠 My Project Workflow
 
 ```text
 Business Problem
@@ -181,42 +147,40 @@ Business Decision
 
 ## 🎓 Education
 
-**M.S. Applied Statistics & Data Science**
-University of Texas at Arlington
+### M.S. Applied Statistics & Data Science
 
-Focus areas include:
+**The University of Texas at Arlington**
+
+Relevant areas:
 
 `Machine Learning` · `Time Series` · `Deep Learning` · `Regression` · `Data Mining` · `Optimization` · `Statistical Modeling`
 
 ---
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications & Professional Learning
 
-* Microsoft Azure AI / Foundry — ongoing advanced development
-* ISC2 Certified in Cybersecurity (CC)
-* Google Data Analytics
-* Meta Database Engineer
-* Microsoft Agents League — Reasoning Agents
-
----
-
-## 🎯 Current Goal
-
-I'm continuing to build production-oriented projects at the intersection of:
-
-**AI Engineering + Data Analytics + Automation**
-
-with a particular focus on:
-
-> **Microsoft Foundry · Azure AI · Generative AI · AI Agents · Python · SQL · Power BI**
+* **ISC2 Certified in Cybersecurity (CC)**
+* **Google Data Analytics Professional Certificate**
+* **Meta Database Engineer Professional Certificate**
+* **Microsoft Agents League — Reasoning Agents**
+* Currently developing advanced skills in **Microsoft Foundry, Azure AI, Generative AI, and AI Agents**
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/niknazngh](https://www.linkedin.com/in/niknazngh/)
-* 💻 **GitHub:** [github.com/NiknazNgh](https://github.com/NiknazNgh)
+💼 [LinkedIn](https://www.linkedin.com/in/niknazngh/)
+💻 [GitHub](https://github.com/NiknazNgh)
+📍 Dallas–Fort Worth, Texas
 
 ---
 
-⭐ I'm continuously building projects that demonstrate how AI, analytics, and automation can solve real operational and business problems.
+### 🎯 Focus
+
+Building practical solutions at the intersection of:
+
+**AI Engineering · Data Analytics · Automation**
+
+with a focus on:
+
+**Microsoft Foundry · Azure AI · Generative AI · AI Agents · Python · SQL · Power BI**
